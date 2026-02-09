@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 .btn {
     background-color: gray;
     padding: 4px 4px 4px 4px;
